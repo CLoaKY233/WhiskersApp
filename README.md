@@ -117,15 +117,15 @@ WhiskersApp/
 
 ### Tauri
 
-[Tauri](https://tauri.app/) is a framework for building tiny, fast binaries for all major desktop platforms. It uses Rust for the backend and any frontend framework for the UI. Tauri applications are secure, performant, and can be built with a small footprint.
+[Tauri](https://v2.tauri.app/start/) is a framework for building tiny, fast binaries for all major desktop platforms. It uses Rust for the backend and any frontend framework for the UI. Tauri applications are secure, performant, and can be built with a small footprint.
 
 ### Shadcn UI Components
 
-[Shadcn](https://shadcn.dev/) is a collection of reusable UI components built with Tailwind CSS. It provides a set of customizable and accessible components that can be easily integrated into any project.
+[Shadcn](https://ui.shadcn.com/docs) is a collection of reusable UI components built with Tailwind CSS. It provides a set of customizable and accessible components that can be easily integrated into any project.
 
 ### Vite
 
-[Vite](https://vitejs.dev/) is a next-generation frontend tooling that provides a fast and optimized development experience. It leverages native ES modules and provides a highly efficient build process.
+[Vite](https://vite.dev/) is a next-generation frontend tooling that provides a fast and optimized development experience. It leverages native ES modules and provides a highly efficient build process.
 
 ## Contributing
 
