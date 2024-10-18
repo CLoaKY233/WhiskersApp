@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Whiskers
 
 Whiskers is an AI-powered application that predicts whether an uploaded image is a cat or a dog. It's a binary classifier trained to differentiate between feline and canine friends! This project leverages modern web technologies and machine learning to provide accurate predictions in a user-friendly interface.
